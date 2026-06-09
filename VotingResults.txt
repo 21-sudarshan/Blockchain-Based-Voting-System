@@ -1,0 +1,9 @@
+BLOCKCHAIN-BASED VOTING SYSTEM
+========================================
+
+Voting Results:
+Candidate A: 2 votes
+Candidate B: 1 votes
+
+Blockchain Hash:
+adcf79723af3cae00c4cb9cef804208ada39658c0ee454dc833452835978d6cb
